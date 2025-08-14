@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestsLab10", "TestsLab10", "{4FAA8331-1169-472B-8B38-82374B3F23A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2CC0F8E9-8F50-4B01-9608-120E28E9EFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC0F8E9-8F50-4B01-9608-120E28E9EFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC0F8E9-8F50-4B01-9608-120E28E9EFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC0F8E9-8F50-4B01-9608-120E28E9EFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC0F8E9-8F50-4B01-9608-120E28E9EFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2CC0F8E9-8F50-4B01-9608-120E28E9EFEE} = {4FAA8331-1169-472B-8B38-82374B3F23A8}
+	EndGlobalSection
+EndGlobal
